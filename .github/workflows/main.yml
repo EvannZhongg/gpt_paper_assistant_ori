@@ -94,5 +94,5 @@ jobs:
       # Step 13: Verify Pages deployment and output the deployment URL
       - name: Verify Pages deployment
         run: |
-          echo "Deployment URL: https://<your-username>.github.io/<repository-name>/"  # Prints the deployment URL
+          echo "Deployment URL: https://EvannZhongg.github.io/gpt_paper_assistant_ori/"
 
